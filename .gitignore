@@ -1,1 +1,7 @@
 /bin/
+/output/
+
+*.log*
+*. log*
+*.jar
+*.class

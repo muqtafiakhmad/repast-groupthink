@@ -1,0 +1,32 @@
+<repast.simphony.data2.engine.FileSinkDescriptor simphonyVersion="2.5.0">
+  <name>AggregatedMetrics</name>
+  <dataSet>AggregatedMetrics</dataSet>
+  <delimiter>,</delimiter>
+  <format>TABULAR</format>
+  <sourceIds class="linked-hash-set">
+    <string>AccumulatedUniqueDMOpinionCount</string>
+    <string>AccumulatedUniqueDVOpinionCount</string>
+    <string>AccumulatedUniqueOBOpinionCount</string>
+    <string>MaxDMOpinionFitness</string>
+    <string>MaxDVOpinionFitness</string>
+    <string>MaxOBOpinionFitness</string>
+    <string>MinDMOpinionFitness</string>
+    <string>MinDVOpinionFitness</string>
+    <string>MinOBOpinionFitness</string>
+    <string>UniqueDMOpinionCount</string>
+    <string>UniqueDVOpinionCount</string>
+    <string>UniqueOBOpinionCount</string>
+    <string>SimulationId</string>
+    <string>ScenarioId</string>
+    <string>N</string>
+    <string>K</string>
+    <string>RunId</string>
+    <string>DecisionMakerCount</string>
+    <string>DevilAdvocateCount</string>
+    <string>ObserverCount</string>
+    <string>tick</string>
+    <string>DmInitialLoci</string>
+  </sourceIds>
+  <fileName>AggregatedMetrics.csv</fileName>
+  <addTimeStamp>true</addTimeStamp>
+</repast.simphony.data2.engine.FileSinkDescriptor>

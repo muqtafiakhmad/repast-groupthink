@@ -1,0 +1,634 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [{
+        "id": [0, 0]
+    }, {
+        "id": [0, 1]
+    }, {
+        "id": [0, 2]
+    }, {
+        "id": [0, 3]
+    }, {
+        "id": [0, 4]
+    }, {
+        "id": [0, 5]
+    }, {
+        "id": [0, 6]
+    }, {
+        "id": [1, 0]
+    }, {
+        "id": [1, 1]
+    }, {
+        "id": [1, 2]
+    }, {
+        "id": [1, 3]
+    }, {
+        "id": [1, 4]
+    }, {
+        "id": [1, 5]
+    }, {
+        "id": [1, 6]
+    }, {
+        "id": [2, 0]
+    }, {
+        "id": [2, 1]
+    }, {
+        "id": [2, 2]
+    }, {
+        "id": [2, 3]
+    }, {
+        "id": [2, 4]
+    }, {
+        "id": [2, 5]
+    }, {
+        "id": [2, 6]
+    }, {
+        "id": [3, 0]
+    }, {
+        "id": [3, 1]
+    }, {
+        "id": [3, 2]
+    }, {
+        "id": [3, 3]
+    }, {
+        "id": [3, 4]
+    }, {
+        "id": [3, 5]
+    }, {
+        "id": [3, 6]
+    }, {
+        "id": [4, 0]
+    }, {
+        "id": [4, 1]
+    }, {
+        "id": [4, 2]
+    }, {
+        "id": [4, 3]
+    }, {
+        "id": [4, 4]
+    }, {
+        "id": [4, 5]
+    }, {
+        "id": [4, 6]
+    }, {
+        "id": [5, 0]
+    }, {
+        "id": [5, 1]
+    }, {
+        "id": [5, 2]
+    }, {
+        "id": [5, 3]
+    }, {
+        "id": [5, 4]
+    }, {
+        "id": [5, 5]
+    }, {
+        "id": [5, 6]
+    }, {
+        "id": [6, 0]
+    }, {
+        "id": [6, 1]
+    }, {
+        "id": [6, 2]
+    }, {
+        "id": [6, 3]
+    }, {
+        "id": [6, 4]
+    }, {
+        "id": [6, 5]
+    }, {
+        "id": [6, 6]
+    }],
+    "links": [{
+        "source": [0, 0],
+        "target": [1, 0]
+    }, {
+        "source": [0, 0],
+        "target": [0, 1]
+    }, {
+        "source": [0, 0],
+        "target": [1, 1]
+    }, {
+        "source": [0, 1],
+        "target": [1, 1]
+    }, {
+        "source": [0, 1],
+        "target": [0, 2]
+    }, {
+        "source": [0, 1],
+        "target": [1, 2]
+    }, {
+        "source": [0, 1],
+        "target": [1, 0]
+    }, {
+        "source": [0, 2],
+        "target": [1, 2]
+    }, {
+        "source": [0, 2],
+        "target": [0, 3]
+    }, {
+        "source": [0, 2],
+        "target": [1, 3]
+    }, {
+        "source": [0, 2],
+        "target": [1, 1]
+    }, {
+        "source": [0, 3],
+        "target": [1, 3]
+    }, {
+        "source": [0, 3],
+        "target": [0, 4]
+    }, {
+        "source": [0, 3],
+        "target": [1, 4]
+    }, {
+        "source": [0, 3],
+        "target": [1, 2]
+    }, {
+        "source": [0, 4],
+        "target": [1, 4]
+    }, {
+        "source": [0, 4],
+        "target": [0, 5]
+    }, {
+        "source": [0, 4],
+        "target": [1, 5]
+    }, {
+        "source": [0, 4],
+        "target": [1, 3]
+    }, {
+        "source": [0, 5],
+        "target": [1, 5]
+    }, {
+        "source": [0, 5],
+        "target": [0, 6]
+    }, {
+        "source": [0, 5],
+        "target": [1, 6]
+    }, {
+        "source": [0, 5],
+        "target": [1, 4]
+    }, {
+        "source": [0, 6],
+        "target": [1, 6]
+    }, {
+        "source": [0, 6],
+        "target": [1, 5]
+    }, {
+        "source": [1, 0],
+        "target": [2, 0]
+    }, {
+        "source": [1, 0],
+        "target": [1, 1]
+    }, {
+        "source": [1, 0],
+        "target": [2, 1]
+    }, {
+        "source": [1, 1],
+        "target": [2, 1]
+    }, {
+        "source": [1, 1],
+        "target": [1, 2]
+    }, {
+        "source": [1, 1],
+        "target": [2, 2]
+    }, {
+        "source": [1, 1],
+        "target": [2, 0]
+    }, {
+        "source": [1, 2],
+        "target": [2, 2]
+    }, {
+        "source": [1, 2],
+        "target": [1, 3]
+    }, {
+        "source": [1, 2],
+        "target": [2, 3]
+    }, {
+        "source": [1, 2],
+        "target": [2, 1]
+    }, {
+        "source": [1, 3],
+        "target": [2, 3]
+    }, {
+        "source": [1, 3],
+        "target": [1, 4]
+    }, {
+        "source": [1, 3],
+        "target": [2, 4]
+    }, {
+        "source": [1, 3],
+        "target": [2, 2]
+    }, {
+        "source": [1, 4],
+        "target": [2, 4]
+    }, {
+        "source": [1, 4],
+        "target": [1, 5]
+    }, {
+        "source": [1, 4],
+        "target": [2, 5]
+    }, {
+        "source": [1, 4],
+        "target": [2, 3]
+    }, {
+        "source": [1, 5],
+        "target": [2, 5]
+    }, {
+        "source": [1, 5],
+        "target": [1, 6]
+    }, {
+        "source": [1, 5],
+        "target": [2, 6]
+    }, {
+        "source": [1, 5],
+        "target": [2, 4]
+    }, {
+        "source": [1, 6],
+        "target": [2, 6]
+    }, {
+        "source": [1, 6],
+        "target": [2, 5]
+    }, {
+        "source": [2, 0],
+        "target": [3, 0]
+    }, {
+        "source": [2, 0],
+        "target": [2, 1]
+    }, {
+        "source": [2, 0],
+        "target": [3, 1]
+    }, {
+        "source": [2, 1],
+        "target": [3, 1]
+    }, {
+        "source": [2, 1],
+        "target": [2, 2]
+    }, {
+        "source": [2, 1],
+        "target": [3, 2]
+    }, {
+        "source": [2, 1],
+        "target": [3, 0]
+    }, {
+        "source": [2, 2],
+        "target": [3, 2]
+    }, {
+        "source": [2, 2],
+        "target": [2, 3]
+    }, {
+        "source": [2, 2],
+        "target": [3, 3]
+    }, {
+        "source": [2, 2],
+        "target": [3, 1]
+    }, {
+        "source": [2, 3],
+        "target": [3, 3]
+    }, {
+        "source": [2, 3],
+        "target": [2, 4]
+    }, {
+        "source": [2, 3],
+        "target": [3, 4]
+    }, {
+        "source": [2, 3],
+        "target": [3, 2]
+    }, {
+        "source": [2, 4],
+        "target": [3, 4]
+    }, {
+        "source": [2, 4],
+        "target": [2, 5]
+    }, {
+        "source": [2, 4],
+        "target": [3, 5]
+    }, {
+        "source": [2, 4],
+        "target": [3, 3]
+    }, {
+        "source": [2, 5],
+        "target": [3, 5]
+    }, {
+        "source": [2, 5],
+        "target": [2, 6]
+    }, {
+        "source": [2, 5],
+        "target": [3, 6]
+    }, {
+        "source": [2, 5],
+        "target": [3, 4]
+    }, {
+        "source": [2, 6],
+        "target": [3, 6]
+    }, {
+        "source": [2, 6],
+        "target": [3, 5]
+    }, {
+        "source": [3, 0],
+        "target": [4, 0]
+    }, {
+        "source": [3, 0],
+        "target": [3, 1]
+    }, {
+        "source": [3, 0],
+        "target": [4, 1]
+    }, {
+        "source": [3, 1],
+        "target": [4, 1]
+    }, {
+        "source": [3, 1],
+        "target": [3, 2]
+    }, {
+        "source": [3, 1],
+        "target": [4, 2]
+    }, {
+        "source": [3, 1],
+        "target": [4, 0]
+    }, {
+        "source": [3, 2],
+        "target": [4, 2]
+    }, {
+        "source": [3, 2],
+        "target": [3, 3]
+    }, {
+        "source": [3, 2],
+        "target": [4, 3]
+    }, {
+        "source": [3, 2],
+        "target": [4, 1]
+    }, {
+        "source": [3, 3],
+        "target": [4, 3]
+    }, {
+        "source": [3, 3],
+        "target": [3, 4]
+    }, {
+        "source": [3, 3],
+        "target": [4, 4]
+    }, {
+        "source": [3, 3],
+        "target": [4, 2]
+    }, {
+        "source": [3, 4],
+        "target": [4, 4]
+    }, {
+        "source": [3, 4],
+        "target": [3, 5]
+    }, {
+        "source": [3, 4],
+        "target": [4, 5]
+    }, {
+        "source": [3, 4],
+        "target": [4, 3]
+    }, {
+        "source": [3, 5],
+        "target": [4, 5]
+    }, {
+        "source": [3, 5],
+        "target": [3, 6]
+    }, {
+        "source": [3, 5],
+        "target": [4, 6]
+    }, {
+        "source": [3, 5],
+        "target": [4, 4]
+    }, {
+        "source": [3, 6],
+        "target": [4, 6]
+    }, {
+        "source": [3, 6],
+        "target": [4, 5]
+    }, {
+        "source": [4, 0],
+        "target": [5, 0]
+    }, {
+        "source": [4, 0],
+        "target": [4, 1]
+    }, {
+        "source": [4, 0],
+        "target": [5, 1]
+    }, {
+        "source": [4, 1],
+        "target": [5, 1]
+    }, {
+        "source": [4, 1],
+        "target": [4, 2]
+    }, {
+        "source": [4, 1],
+        "target": [5, 2]
+    }, {
+        "source": [4, 1],
+        "target": [5, 0]
+    }, {
+        "source": [4, 2],
+        "target": [5, 2]
+    }, {
+        "source": [4, 2],
+        "target": [4, 3]
+    }, {
+        "source": [4, 2],
+        "target": [5, 3]
+    }, {
+        "source": [4, 2],
+        "target": [5, 1]
+    }, {
+        "source": [4, 3],
+        "target": [5, 3]
+    }, {
+        "source": [4, 3],
+        "target": [4, 4]
+    }, {
+        "source": [4, 3],
+        "target": [5, 4]
+    }, {
+        "source": [4, 3],
+        "target": [5, 2]
+    }, {
+        "source": [4, 4],
+        "target": [5, 4]
+    }, {
+        "source": [4, 4],
+        "target": [4, 5]
+    }, {
+        "source": [4, 4],
+        "target": [5, 5]
+    }, {
+        "source": [4, 4],
+        "target": [5, 3]
+    }, {
+        "source": [4, 5],
+        "target": [5, 5]
+    }, {
+        "source": [4, 5],
+        "target": [4, 6]
+    }, {
+        "source": [4, 5],
+        "target": [5, 6]
+    }, {
+        "source": [4, 5],
+        "target": [5, 4]
+    }, {
+        "source": [4, 6],
+        "target": [5, 6]
+    }, {
+        "source": [4, 6],
+        "target": [5, 5]
+    }, {
+        "source": [5, 0],
+        "target": [6, 0]
+    }, {
+        "source": [5, 0],
+        "target": [5, 1]
+    }, {
+        "source": [5, 0],
+        "target": [6, 1]
+    }, {
+        "source": [5, 1],
+        "target": [6, 1]
+    }, {
+        "source": [5, 1],
+        "target": [5, 2]
+    }, {
+        "source": [5, 1],
+        "target": [6, 2]
+    }, {
+        "source": [5, 1],
+        "target": [6, 0]
+    }, {
+        "source": [5, 2],
+        "target": [6, 2]
+    }, {
+        "source": [5, 2],
+        "target": [5, 3]
+    }, {
+        "source": [5, 2],
+        "target": [6, 3]
+    }, {
+        "source": [5, 2],
+        "target": [6, 1]
+    }, {
+        "source": [5, 3],
+        "target": [6, 3]
+    }, {
+        "source": [5, 3],
+        "target": [5, 4]
+    }, {
+        "source": [5, 3],
+        "target": [6, 4]
+    }, {
+        "source": [5, 3],
+        "target": [6, 2]
+    }, {
+        "source": [5, 4],
+        "target": [6, 4]
+    }, {
+        "source": [5, 4],
+        "target": [5, 5]
+    }, {
+        "source": [5, 4],
+        "target": [6, 5]
+    }, {
+        "source": [5, 4],
+        "target": [6, 3]
+    }, {
+        "source": [5, 5],
+        "target": [6, 5]
+    }, {
+        "source": [5, 5],
+        "target": [5, 6]
+    }, {
+        "source": [5, 5],
+        "target": [6, 6]
+    }, {
+        "source": [5, 5],
+        "target": [6, 4]
+    }, {
+        "source": [5, 6],
+        "target": [6, 6]
+    }, {
+        "source": [5, 6],
+        "target": [6, 5]
+    }, {
+        "source": [6, 0],
+        "target": [6, 1]
+    }, {
+        "source": [6, 1],
+        "target": [6, 2]
+    }, {
+        "source": [6, 2],
+        "target": [6, 3]
+    }, {
+        "source": [6, 3],
+        "target": [6, 4]
+    }, {
+        "source": [6, 4],
+        "target": [6, 5]
+    }, {
+        "source": [6, 5],
+        "target": [6, 6]
+    }],
+    "devilAdvocateCandidates": [
+        [4, 4],
+        [2, 4],
+        [4, 2],
+        [2, 2]
+    ],
+    "decisionMakers": [
+        [4, 4],
+        [3, 4],
+        [2, 4],
+        [4, 3],
+        [3, 3],
+        [2, 3],
+        [4, 2],
+        [3, 2],
+        [2, 2]
+    ],
+    "observers": [
+        [6, 0],
+        [5, 0],
+        [4, 0],
+        [3, 0],
+        [2, 0],
+        [1, 0],
+        [0, 0],
+        [6, 1],
+        [5, 1],
+        [4, 1],
+        [3, 1],
+        [2, 1],
+        [1, 1],
+        [0, 1],
+        [6, 5],
+        [5, 5],
+        [4, 5],
+        [3, 5],
+        [2, 5],
+        [1, 5],
+        [0, 5],
+        [6, 6],
+        [5, 6],
+        [4, 6],
+        [3, 6],
+        [2, 6],
+        [1, 6],
+        [0, 6],
+        [6, 4],
+        [6, 3],
+        [6, 2],
+        [5, 4],
+        [5, 3],
+        [5, 2],
+        [1, 4],
+        [1, 3],
+        [1, 2],
+        [0, 4],
+        [0, 3],
+        [0, 2]
+    ],
+    "m": 7,
+    "n": 7
+}

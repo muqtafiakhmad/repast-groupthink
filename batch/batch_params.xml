@@ -1,3 +1,1 @@
-<?xml version="1.0"?>
-<sweep runs="1">
-</sweep>
+<?xml version="1.0" ?><sweep runs="1"><parameter name="n" type="constant" constant_type="int" value="7"></parameter><parameter name="run_id" type="number" number_type="int" start="1" end="1000" step="1"><parameter name="devil_advocate_count" type="list" value_type="int" values="0 1 2 3 4"><parameter name="k" type="list" value_type="int" values="2 4 6"><parameter name="dm_initial_loci" type="list" value_type="int" values="2 4 6"><parameter name="scenario_id" type="list" value_type="int" values="100 300 305 310 315 320 325 330 340 350 360 370 380 390"></parameter></parameter></parameter></parameter></parameter></sweep>
